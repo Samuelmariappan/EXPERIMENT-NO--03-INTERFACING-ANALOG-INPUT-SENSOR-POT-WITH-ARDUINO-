@@ -46,11 +46,10 @@ CIRCUIT DIAGRAM
 
 
 
+**FIGURE 1**
+![image](https://user-images.githubusercontent.com/36288975/163530788-eec3cdc3-95e8-4d2d-8349-6d0ea4c9439c.p
+![Uploading ex02.jpg…]()
 
-![image](https://user-images.githubusercontent.com/36288975/163530788-eec3cdc3-95e8-4d2d-8349-6d0ea4c9439c.png)
-
-
-**FIGURE -01**
 
 **PROCEDURE:**
 
